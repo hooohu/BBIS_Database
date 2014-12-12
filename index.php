@@ -32,6 +32,6 @@ function formSubmit(){
     <!-- <input type="reset" class="but2" value="<spring:message code='Page.other.forgetPassword'/>" title="<spring:message code='Page.other.forgetPasswordSystemManager'/>"/> -->
     </form>
 </div>
-<p><small>Group Team-A 2014</small></p>
+<center><small>Group Team-A 2014</small></center>
 </body>
 </html>
